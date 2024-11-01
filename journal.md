@@ -21,3 +21,4 @@ if im being honest i can't see the board from the back of the classroom, so i mi
  I rely on a productivity app to manage my tasks, which leverages computer science for features like task prioritization and reminders.
  This technology keeps me organized and helps me stay focused. Without it, I would likely forget important tasks and struggle with time management,
  leading to increased stress and chaos in my day. Computer science truly streamlines my daily life.
+ 
