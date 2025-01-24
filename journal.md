@@ -42,3 +42,26 @@ Artificial Intelligence (AI) has the potential to enhance our lives significantl
 
 However, the rise of AI also brings notable risks, particularly regarding privacy, job security, and algorithmic bias. Job automation poses a significant threat, as many roles, especially in manufacturing and customer service, may be replaced by AI systems, leading to unemployment and economic inequality. Additionally, AI can perpetuate biases if the data used to train these systems reflects societal prejudices, resulting in unfair outcomes in critical areas like hiring or law enforcement. Privacy concerns are also paramount, as AI often requires access to large amounts of personal data, raising the likelihood of data breaches and misuse. Thus, while AI offers considerable advantages, careful attention must be given to its risks to ensure a balanced approach to its implementation.
 
+  # january 8, 2025
+ 
+
+Looking Ahead:
+Topics and Activities:
+This semester, I’d like to explore advanced data analysis and visualization, with hands-on workshops for tools like Python libraries or Tableau. Collaborative projects on current industry problems would also be exciting.
+
+Certifications:
+Interest in Certifications:
+Yes, I’m interested in pursuing Python and data analytics certifications.
+
+Support and Resources Needed:
+Access to online courses, sample tests, and hands-on project opportunities would help me prepare effectively.
+
+ # january 13, 2025
+ The tech industry’s focus on AI skills is crucial for adapting to automation and data-driven strategies. While AI can enhance job opportunities by freeing workers for more strategic tasks, it may limit roles for those lacking these skills.
+
+To prepare, I would pursue AI and data analytics certifications, stay updated on trends, and gain hands-on experience with AI tools to remain competitive.
+
+
+ # january 22, 2025 
+ Honestly, I feel the ban on TikTok is much less about national security and is driven by heavy lobbying and congressional investments in Meta. In that respect, without TikTok, Meta will have complete hegemony over social media and be able to drive pro-government messaging as opposed to what general public opinion has to say. Personally, I see nothing seriously wrong with the app, or for that matter, any back door.
+
