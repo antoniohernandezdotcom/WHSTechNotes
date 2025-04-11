@@ -65,3 +65,17 @@ To prepare, I would pursue AI and data analytics certifications, stay updated on
  # january 22, 2025 
  Honestly, I feel the ban on TikTok is much less about national security and is driven by heavy lobbying and congressional investments in Meta. In that respect, without TikTok, Meta will have complete hegemony over social media and be able to drive pro-government messaging as opposed to what general public opinion has to say. Personally, I see nothing seriously wrong with the app, or for that matter, any back door.
 
+ # march 24, 2025
+ March Madness feels even more exciting with technology enhancing the experience. AI predictions and bracket analyzers add a fun layer of strategy—I like seeing how algorithms stack up against human guesses, even if upsets ruin "perfect" brackets. It doesn’t take away from the thrill; instead, it feels like a high-stakes game within the game.
+
+Social media and streaming have also changed how I follow the tournament. Live-tweeting close games or watching highlights instantly makes me feel more connected to the action, even if I miss the live broadcast. While I still love the tradition of gathering to watch games, these tools make it easier to stay engaged no matter where I am. The blend of old-school fandom and new tech keeps March Madness fresh.
+ # march 31, 2025
+im doing fine, the worst part about school is waking early im not stress about the STAAR because it seems easy and im only taking 1,
+end goal of school is just to pass.
+
+ # april 7, 2025
+ AI could help me study for tests like the STAAR by creating personalized quizzes, explaining tricky concepts in simple ways, and keeping me on track with a study schedule. The most useful feature would be an AI that breaks down questions step-by-step when I get stuck, so I actually learn instead of just memorizing answers.
+
+I’d use an AI tutor if it was fast and easy—like a chatbot that gives quick explanations or a study app that adjusts to my progress. If it felt like a helpful tool rather than extra work, I’d stick with it. But if it was confusing or time-consuming, I’d probably go back to old-school studying.
+
+
